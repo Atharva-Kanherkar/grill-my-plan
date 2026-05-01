@@ -1,4 +1,4 @@
-# grill-with-docs
+# grill-my-plan
 
 A Codex skill for stress-testing technical plans before they harden into implementation.
 
@@ -8,10 +8,10 @@ It pushes on a plan one decision at a time, checks the local codebase first, the
 
 ```bash
 mkdir -p ~/.codex/skills
-git clone https://github.com/Atharva-Kanherkar/grill-with-docs.git ~/.codex/skills/grill-with-docs
+git clone https://github.com/Atharva-Kanherkar/grill-my-plan.git ~/.codex/skills/grill-my-plan
 ```
 
-Or download the repo zip from GitHub and place the extracted `grill-with-docs` folder in:
+Or download the repo zip from GitHub and place the extracted `grill-my-plan` folder in:
 
 ```text
 ~/.codex/skills/
@@ -22,7 +22,7 @@ Or download the repo zip from GitHub and place the extracted `grill-with-docs` f
 Ask Codex:
 
 ```text
-Use $grill-with-docs to stress-test this architecture plan against my codebase and outside engineering evidence.
+Use $grill-my-plan to stress-test this architecture plan against my codebase and outside engineering evidence.
 ```
 
 ## What It Does

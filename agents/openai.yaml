@@ -1,4 +1,4 @@
 interface:
-  display_name: "Grill With Docs"
+  display_name: "Grill My Plan"
   short_description: "Stress-test plans against code and industry evidence"
-  default_prompt: "Use $grill-with-docs to stress-test this architecture plan against my codebase and outside engineering evidence."
+  default_prompt: "Use $grill-my-plan to stress-test this architecture plan against my codebase and outside engineering evidence."

@@ -1,9 +1,9 @@
 ---
-name: grill-with-docs
+name: grill-my-plan
 description: Relentless plan-grilling and decision calibration against the user's codebase, domain model, and outside engineering evidence. Use when the user wants to stress-test an architecture, product, implementation, refactor, API, data model, or technical plan; compare options against respected open-source codebases, official docs, engineering blogs, talks, papers, and developer community consensus; and understand which trade-offs are theirs to accept, adapt, or reject.
 ---
 
-# Grill With Docs
+# Grill My Plan
 
 ## Operating Mode
 
